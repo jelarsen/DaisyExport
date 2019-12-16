@@ -1,0 +1,10 @@
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\bin\Debug\Daisy.DataExtract.dll
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\bin\Debug\Daisy.DataExtract.pdb
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\bin\Debug\CsvHelper.dll
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\bin\Debug\CsvHelper.xml
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\obj\Debug\Daisy.DataExtract.csprojAssemblyReference.cache
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\obj\Debug\Daisy.DataExtract.csproj.CoreCompileInputs.cache
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\obj\Debug\Daisy.DataExtract.csproj.CopyComplete
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\obj\Debug\Daisy.DataExtract.dll
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\obj\Debug\Daisy.DataExtract.pdb
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.DataExtract\bin\Debug\FastMember.dll

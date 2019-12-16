@@ -1,0 +1,15 @@
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\Daisy.Test.exe.config
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\Daisy.Test.exe
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\Daisy.Test.pdb
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\CsvHelper.dll
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\Daisy.DataExtract.dll
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\Dapper.dll
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\Daisy.DataExtract.pdb
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\CsvHelper.xml
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\Dapper.xml
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\obj\Debug\Daisy.Test.csprojAssemblyReference.cache
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\obj\Debug\Daisy.Test.csproj.CoreCompileInputs.cache
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\obj\Debug\Daisy.Test.csproj.CopyComplete
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\obj\Debug\Daisy.Test.exe
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\obj\Debug\Daisy.Test.pdb
+C:\projects\daisy\vs\Daisy.DataExtract\Daisy.Test\bin\Debug\FastMember.dll
