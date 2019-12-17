@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataModel\FileControl.cs" />
     <Compile Include="DataModel\PlannedPromoted.cs" />
     <Compile Include="DataModel\Product.cs" />
     <Compile Include="DataModel\ProductHierarchy.cs" />
