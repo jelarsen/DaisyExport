@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="DataModel\Product.cs" />
     <Compile Include="DataModel\ProductHierarchy.cs" />
+    <Compile Include="DataModel\PromoProduct.cs" />
     <Compile Include="DataModel\Promotion.cs" />
     <Compile Include="DataModel\Store.cs" />
     <Compile Include="DataModel\Time.cs" />

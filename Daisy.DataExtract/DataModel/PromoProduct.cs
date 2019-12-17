@@ -7,16 +7,13 @@ using CsvHelper.Configuration.Attributes;
 
 namespace Daisy.DataExtract.DataModel
 {
-    class Promotion
+    class PromoProduct
     {
         [Name("Promo Number")]
         public int PromoNumber { get; set; }
 
         [Name("Promo Type ID")]
         public int PromoTypeID { get; set; }
-
-        [Name("Promo Description")]
-        public string PromoDescription { get; set; }
 
         [Name("Promo Start Date")]
         public DateTime PromoStartDate { get; set; }
@@ -27,5 +24,10 @@ namespace Daisy.DataExtract.DataModel
         [Name("Store Number")]
         public int StoreNumber { get; set; }
 
+        [Name("SKU / UPC_PLU")]
+        public int UpcPlu { get; set; }
+
+        [Name("Page Number")]
+        public int PageNumber { get; set; }
     }
 }
