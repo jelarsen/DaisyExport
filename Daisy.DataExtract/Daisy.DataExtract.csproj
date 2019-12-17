@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataModel\Product.cs" />
     <Compile Include="DataModel\Store.cs" />
     <Compile Include="DataModel\Time.cs" />
     <Compile Include="DataModel\TransactionLog.cs" />
